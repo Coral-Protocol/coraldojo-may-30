@@ -1,6 +1,7 @@
 # Beer and Multi-Agent System Coding
 
 Welcome!
+# (this repo is public, find it at https://github.com/Coral-Protocol/coraldojo-may-30)
 
 Feel free to take a seat or walk around and socialize.
 
@@ -8,7 +9,7 @@ There is an engaging multi-agent challenge for today as a bit of fun.
 
 Join the Discord channel for this event for updates on the challenge:
 
-https://discord.gg/pEt3m6WQ
+# https://discord.gg/pEt3m6WQ
 
 ---
 
