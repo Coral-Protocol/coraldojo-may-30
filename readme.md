@@ -22,7 +22,9 @@ Investor scouts visit an incubator program, where they are pitched on technical 
 
 They want to get a good idea of what each team has achieved in what amount of time while they are in their meetings to inform their questions in the meetings.
 
-The investor scouts will need to come up with a short list of teams they wish to meet with further on the day before they go back to their bosses 
+The investor scouts will need to come up with a shortlist of teams they wish to meet with further on the day before they go back to their bosses. 
+The roadmaps will be instrumental in identifying which teams they want to spend more time evaluating, and in them convincing their bosses of the teams they like.
+
 
 
 ### Requirements
