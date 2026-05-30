@@ -34,3 +34,6 @@ Create a multi-agent system that is able to take a git repo and quickly build a 
 CoralOS is an agent orchestration platform that lets you to use any combination of agents together, and makes it easier to connect them to your application's backend.
 
 You don't need to use CoralOS for this challenge, but if you do then you can enjoy free LLM API credits!
+
+To integrate with CoralOS, your agent just needs to be able to take an LLM API address via an environment variable. Then you can run it via the coral server.
+More instructions coming on the Discord
