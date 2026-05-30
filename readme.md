@@ -1,7 +1,8 @@
 # Beer and Multi-Agent System Coding
 
 Welcome!
-# (this repo is public, find it at https://github.com/Coral-Protocol/coraldojo-may-30)
+
+(this repo is public, find it at https://github.com/Coral-Protocol/coraldojo-may-30)
 
 Feel free to take a seat or walk around and socialize.
 
